@@ -1,16 +1,46 @@
-### Hi there 👋
+Hi, i'm Daniel Demartino!
 
-<!--
-**DMVA-PY/DMVA-PY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me:
+I am passionate about Backend Development, Web Development and Working with APIs.
 
-Here are some ideas to get you started:
+## How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mail**: dm.va.dev0@hotmail.com
+
+# Tech Stack:
+
+
+
+## **Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,bash,c#&theme=dark" />
+  </a>
+</p>
+
+## **Frameworks**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,django,nodejs,react,next&theme=dark" />
+  </a>
+</p>
+
+## **Databases & etc.**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,graphql&theme=dark" />
+  </a>
+</p>
+
+## **Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,css,sass,tailwind&theme=dark" />
+  </a>
+</p>
+
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DMVA-PY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## LeetCode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/DMVA-PY?theme=nord&extension=activity)](https://leetcode.com/jontstaz)

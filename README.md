@@ -1,4 +1,4 @@
-# Hi, i'm Daniel Demartino. Nice to meet you! :raised_hand: :eyeglasses:
+# Hi, i'm Daniel Demartino. Nice to meet you! :raised_hand: :eyeglasses: :snake:
 
 ## About Me:
 I am passionate about Backend Development, Web Development and Working with APIs.
@@ -6,10 +6,6 @@ I am passionate about Backend Development, Web Development and Working with APIs
 ## How to reach me
 
 **Mail**: dm.va.dev0@hotmail.com
-
-## Tech Stack:
-
-
 
 ## **Languages**
 <p align="center">

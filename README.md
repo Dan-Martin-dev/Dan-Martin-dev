@@ -43,4 +43,4 @@ I am passionate about Backend Development, Web Development and Working with APIs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DMVA-PY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## LeetCode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/DMVA-PY?theme=nord&extension=activity)](https://leetcode.com/jontstaz)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/DMVA-PY?theme=nord&extension=activity)](https://leetcode.com/DMVA-PY)

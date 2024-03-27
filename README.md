@@ -1,13 +1,13 @@
-## Hi, i'm Daniel Demartino! :raised_hand::eyeglasses:
+# Hi, i'm Daniel Demartino. Nice to meet you! :raised_hand: :eyeglasses:
 
-# About Me:
+## About Me:
 I am passionate about Backend Development, Web Development and Working with APIs.
 
 ## How to reach me
 
 **Mail**: dm.va.dev0@hotmail.com
 
-# Tech Stack:
+## Tech Stack:
 
 
 
@@ -39,7 +39,7 @@ I am passionate about Backend Development, Web Development and Working with APIs
   </a>
 </p>
 
-# GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DMVA-PY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## LeetCode

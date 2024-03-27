@@ -1,5 +1,5 @@
 <div align="center">
-  # Daniel Demartino
+   <h1>Daniel Demartino</h1>
 </div>
 
 ## About Me:

@@ -1,4 +1,4 @@
-Hi, i'm Daniel Demartino!
+## Hi, i'm Daniel Demartino! :raised_hand::eyeglasses:
 
 # About Me:
 I am passionate about Backend Development, Web Development and Working with APIs.

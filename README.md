@@ -3,7 +3,8 @@
 </div>
 
 ## About Me:
-Hi, i'm Daniel Demartino, a backend developer with expertise in Python. Nice to meet you! :raised_hand: :eyeglasses: :snake:
+Hi, i'm Daniel Demartino, a backend developer with expertise in Python. Nice to meet you! :raised_hand: :eyeglasses: :snake:.
+
 I am passionate about Backend Development, Web Development and Working with APIs.
 
 ## How to reach me

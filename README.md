@@ -1,9 +1,9 @@
 <div align="center">
-   <h1>Daniel Martin Varela Alvarado</h1>
+   <h1>Daniel Martin Varela Alvarado  :snake:</h1>
 </div>
 
 ## About Me:
-Hi, i'm Daniel, a backend developer with expertise in Python. Nice to meet you! :raised_hand: :eyeglasses: :snake:.
+Hi, i'm Daniel, a backend developer with expertise in Python. Nice to meet you! :raised_hand: :eyeglasses:.
 
 I am passionate about Backend Development, Web Development and Working with APIs.
 

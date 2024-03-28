@@ -3,7 +3,7 @@
 </div>
 
 ## About Me:
-Hi, i'm Daniel, a backend developer with expertise in Python. Nice to meet you! :raised_hand: :eyeglasses:.
+Hi, i'm Daniel, a backend developer with expertise in Python. Nice to meet you! :raised_hand:  :eyeglasses:
 
 I am passionate about Backend Development, Web Development and Working with APIs.
 

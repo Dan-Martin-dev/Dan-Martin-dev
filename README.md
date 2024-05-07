@@ -9,7 +9,7 @@ I am passionate about Back/Frontend development, DevOps and working with APIs.
 
 ## How to reach me
 
-**Mail**: dmva-py@hotmail.com
+**Mail**: dm.va.dev@hotmail.com
 
 ## **Languages**
 <p align="center">

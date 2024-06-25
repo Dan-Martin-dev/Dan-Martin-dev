@@ -1,13 +1,13 @@
 <div align="center">
-   <h1>Daniel Martin Varela Alvarado  :snake:</h1>
+   <h1>Dan Martin  :snake:</h1>
 </div>
 
 ## About Me:
-Hi, i'm Daniel, a developer with expertise in Python and passionate about backend development, data science, devops and working with APIs.
+Hi, I'm Dan, a software engineering student with expertise in Python and web app development.
 
 ## How to reach me
 
-**Mail**: dm.va.dev@hotmail.com
+**Mail**: dan.martin.dev@outlook.com
 
 ## **Languages**
 <p align="center">

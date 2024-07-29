@@ -8,6 +8,7 @@ Hi, I'm Dan, a software engineering student with expertise in Python and web app
 ## How to reach me
 
 **Mail**: dan.martin.dev@outlook.com
+
 **Phone number**: +54 9 11 4029-5235
 
 ## **Languages**

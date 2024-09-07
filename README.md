@@ -3,7 +3,7 @@
 </div>
 
 ## About Me:
-Hi, I'm Dan, a software engineering student with expertise in React and Python for web app development.
+Hi, I'm Dan, a software engineering student with experience in Javascript and Python environments.
 
 ## How to reach me
 

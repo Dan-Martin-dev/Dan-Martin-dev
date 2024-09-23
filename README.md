@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Dan Martin  :snake:</h1>
+   <h1>Dan Martin </h1>
 </div>
 
 ## About Me:

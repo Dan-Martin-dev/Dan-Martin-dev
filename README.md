@@ -40,7 +40,7 @@ Hi, I'm Dan, a software engineering student with experience in Javascript and Py
 </p>
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DMVA-PY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Martin-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DMVA-PY?theme=nord&extension=activity)](https://leetcode.com/DMVA-PY)

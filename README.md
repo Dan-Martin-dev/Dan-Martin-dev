@@ -5,11 +5,10 @@
 ## About Me:
 Hi, I'm Dan, a software engineering student with experience in Javascript and Python environments.
 
-## How to reach me
+## Contact me
 
-**Mail**: dan.martin.dev@outlook.com
+dan.martin.dev@outlook.com
 
-**Phone number**: +54 9 11 4029-5235
 
 ## **Languages**
 <p align="center">

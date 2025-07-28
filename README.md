@@ -3,7 +3,7 @@
 </div>
 
 ## About Me:
-Hi, I'm Dan, a software engineering student with experience in Javascript and Python environments.
+Hi, I'm Dan, a web developer with experience in Javascript and Python environments.
 
 ## Contact me
 

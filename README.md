@@ -1,9 +1,9 @@
 <div align="center">
-   <h1>Daniel Martin </h1>
+   <h1>Dan Martin </h1>
 </div>
 
 ## About Me:
-Hi, I'm Daniel, a web developer with experience in Javascript and Python environments.
+Hi, I'm Dan, a web developer with experience in Javascript and Python environments.
 
 ## Contact me
 

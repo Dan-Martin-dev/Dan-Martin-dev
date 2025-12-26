@@ -1,4 +1,4 @@
-# 🚀 Dan Martin - Full-Stack Developer
+# 🚀 Daniel Martin - Full-Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Dan Martin**, a passionate full-stack developer specializing in modern web technologies. I love building scalable, user-friendly applications that solve real-world problems. With expertise in both frontend and backend development, I create end-to-end solutions using cutting-edge technologies.
+Hi! I'm **Daniel Martin**, a passionate full-stack developer specializing in modern web technologies. I love building scalable, user-friendly applications that solve real-world problems. With expertise in both frontend and backend development, I create end-to-end solutions using cutting-edge technologies.
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, TypeScript, Tanstack Start, Tailwind CSS

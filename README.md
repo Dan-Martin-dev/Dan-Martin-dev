@@ -6,7 +6,9 @@
 
 ## 👋 About Me
 
-Hi! I'm **Daniel Martin**, a passionate full-stack developer specializing in modern web technologies. I love building scalable, user-friendly applications that solve real-world problems. With expertise in both frontend and backend development, I create end-to-end solutions using cutting-edge technologies.
+Hi, I'm **Daniel Martin**, I build things that work globally.
+Full-Stack Dev | DevOps Enthusiast | Tech Localization
+Turning complex code into accessible, multilingual user experiences.
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, TypeScript, Tanstack Start, Tailwind CSS

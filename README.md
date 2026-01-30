@@ -1,4 +1,4 @@
-# 🚀 Daniel Martin - Full-Stack Developer
+# 🚀 Daniel Martin - Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
